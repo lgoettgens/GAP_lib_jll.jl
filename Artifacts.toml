@@ -1,0 +1,6 @@
+[GAP_lib]
+git-tree-sha1 = "a201403b8c2fc05af9ef5fb763560e6df5ce1acc"
+
+    [[GAP_lib.download]]
+    sha256 = "21e95bad0e6f33ad7bd2c23c736692669f857ee6e3e5da5343ee2e08d76791b5"
+    url = "https://github.com/lgoettgens/GAP_lib_jll.jl/releases/download/GAP_lib-v400.1500.0+0/GAP_lib.v400.1500.0.any.tar.gz"
